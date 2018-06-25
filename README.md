@@ -17,7 +17,7 @@
 
 ### Basic JavaScript
 
-- [x] [Comment Your JavaScript Code]()
+- [x] [Comment Your JavaScript Code](./Comment-Your-JavaScript-Code)
 - [x] [Declare JavaScript Variables]()
 - [x] [Storing Values with the Assignment Operator]()
 - [x] [Initializing Variables with the Assignment Operator]()
