@@ -16,6 +16,7 @@
 
 
 ### Basic JavaScript
+
 - [x] [Comment Your JavaScript Code]()
 - [x] [Declare JavaScript Variables]()
 - [x] [Storing Values with the Assignment Operator]()
@@ -120,8 +121,36 @@
 - [x] [Use the Conditional (Ternary) Operator]()
 - [x] [Use Multiple Conditional (Ternary) Operators]()
 
-	
+
 ### ES6
+
+- [x] [Explore Differences Between the var and let Keywords]()
+- [x] [Compare Scopes of the var and let Keywords]()
+- [x] [Declare a Read-Only Variable with the const Keyword]()
+- [x] [Mutate an Array Declared with const]()
+- [x] [Prevent Object Mutation]()
+- [x] [Use Arrow Functions to Write Concise Anonymous Functions]()
+- [x] [Write Arrow Functions with Parameters]()
+- [x] [Write Higher Order Arrow Functions]()
+- [x] [Set Default Parameters for Your Functions]()
+- [x] [Use the Rest Operator with Function Parameters]()
+- [x] [Use the Spread Operator to Evaluate Arrays In-Place]()
+- [x] [Use Destructuring Assignment to Assign Variables from Objects]()
+- [x] [Use Destructuring Assignment to Assign Variables from Arrays]()
+- [x] [Use Destructuring Assignment with the Rest Operator to Reassign Array Elements]()
+- [x] [Use Destructuring Assignment to Pass an Object as a Function's Parameters]()
+- [x] [Create Strings using Template Literals]()
+- [x] [Write Concise Object Literal Declarations Using Simple Fields]()
+- [x] [Write Concise Declarative Functions with ES6]()
+- [x] [Use class Syntax to Define a Constructor Function]()
+- [x] [Use getters and setters to Control Access to an Object]()
+- [x] [Understand the Differences Between import and require]()
+- [x] [Use export to Reuse a Code Block]()
+- [x] [Use * to Import Everything from a File]()
+- [x] [Create an Export Fallback with export default]()
+- [x] [Import a Default Export]()
+
+
 ### Regular Expressions
 ### Debugging
 ### Basic Data Structures
