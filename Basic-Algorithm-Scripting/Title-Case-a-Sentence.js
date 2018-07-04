@@ -16,5 +16,5 @@ titleCase("HERE IS MY HANDLE HERE IS MY SPOUT") should return Here Is My Handle 
 function titleCase(str) {
     return str.toLowerCase().split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
 }
-  
+
 titleCase("I'm a little tea pot");
