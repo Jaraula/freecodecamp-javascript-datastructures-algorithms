@@ -1,0 +1,7 @@
+{
+    // Default Terminal for Windows
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+
+    // Git Bash on Windows
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+}
