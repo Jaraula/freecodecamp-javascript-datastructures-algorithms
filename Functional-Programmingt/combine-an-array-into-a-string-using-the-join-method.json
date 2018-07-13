@@ -1,0 +1,1 @@
+{"index.js":"function sentensify(str) {\n  // Add your code below this line\n  let newStr = str.split(/\\W+/);\n  return newStr.join(' ');\n  \n  // Add your code above this line\n}\nsentensify(\"May-the-force-be-with-you\");"}
